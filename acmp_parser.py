@@ -6,7 +6,7 @@
 
 id = 1                              # ID задачи на ACMP
 
-language = 'python'                 # Язык разработки
+language = 'python'                 # Язык программирования
 
 eval_method = 'auto_grade'          # Метод проверки 'auto'/'auto_grade'
 testcase_visible = 1                # Тесткейсы видны сдающим 0/1
